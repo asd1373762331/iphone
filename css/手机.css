@@ -1,0 +1,138 @@
+/*
+* @Author: Administrator
+* @Date:   2018-01-24 13:32:49
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-01-25 09:15:41
+*/
+.shouji{
+	width: 254px;
+	height:525px;
+	background: #f6f8f9;
+	border-radius: 35px;
+	border: 2px solid #efd8bf;
+	float: left;
+	margin-right: 90px;
+}
+.naodai{
+	width:247px;
+	height:59px;
+	background: #f6f8f9;
+	border-radius: 35px;
+}
+.shexiangtou{
+	width:9px;
+	height:9px;
+	background:#131418;
+	border-radius:50%;
+	float: left;
+	margin-top: 26px;
+    margin-left: 59px;
+}
+.shexiangtou1{
+	width:6px;
+	height:6px;
+	background:#131418;
+	border-radius:50%;
+	float: left;
+	margin-top: 28px;
+    margin-left: 15px;
+}
+.tingtong{
+	width:41px;
+	height:5px;
+	background:#131418;
+	border-radius:2px;
+	float: left;
+	margin-top: 28px;
+    margin-left: 15px;
+}
+.pingmu{
+    width:227px;
+    height:399px;
+    background:#f6f8f9;
+    border: 1.5px solid #313131;
+    margin: 0 auto;
+}
+.hezi{
+	width:247px;
+	height:1px;
+	background:#f6f8f9;
+	text-align: center;
+	font-family: 微软雅黑;
+	font-size: 3px;
+	margin-top: 20px;
+	color: #d7bda4;
+}
+.shoujihou{
+	width: 254px;
+	height: 525px;
+	background: #f6f8f9;
+	border-radius: 35px;
+	border:1px solid #000;
+	float: left;
+}
+.shang{
+	width: 254px;
+	height: 25px;
+	background: #EFD8BF;
+	border-top-left-radius: 35px;
+	border-top-right-radius: 35px;
+	margin: 0 auto;
+	margin-top: 7px;		
+}
+.yuan1{
+	width: 15px;
+	height: 15px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:30px; 
+	margin-top:6px;
+}
+.yuan2{
+	width: 7px;
+	height: 7px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:8px; 
+	margin-top:10px; 
+}
+.yuan3{
+	width: 12px;
+	height:12px;
+	background: #100607;
+	border-radius: 35px;
+	float: left;
+	margin-left:8px;
+    margin-top:7px; 
+}
+.zhong{
+	width: 254px;
+	height: 445px;
+	background: #EFD8BF;
+	margin: 0 auto;
+	margin-top: 7px;
+}
+
+.zi{
+	width: 65px;
+	height:65px;
+	background: #EFD8BF;
+	font-size: 4px;
+	color: #100607;
+	float: left;
+	margin-top: 370px;
+	margin-left: 108px;
+	font-family: 微软雅黑;
+}
+
+.xia{
+	width: 254px;
+	height: 25px;
+	background: #EFD8BF;
+	border-bottom-left-radius: 35px;
+	border-bottom-right-radius: 35px;
+	margin: 0 auto;
+	margin-top: 7px;
+}
